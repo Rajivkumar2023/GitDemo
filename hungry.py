@@ -4,4 +4,4 @@ if hungry=="yes":
     print("eat snacks")
     print("eat burger")
 else:
-    print("do your work!")
+    print("kaam kar jaldi , tab khana milega!")
